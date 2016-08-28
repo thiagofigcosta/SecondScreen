@@ -1,0 +1,486 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited A1: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 200.000000000000000000
+    Position.Y = 344.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 70
+  end
+  inherited B1: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.Y = 136.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 69
+  end
+  inherited C1: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.Y = 112.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+  end
+  inherited E1: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.Y = 152.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 66
+  end
+  inherited D1: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.Y = 160.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 65
+  end
+  inherited F1: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.Y = 168.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 62
+  end
+  inherited G1: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.Y = 352.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 48
+  end
+  inherited A2: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 63
+  end
+  inherited B2: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 58
+  end
+  inherited C2: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 51
+  end
+  inherited E2: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 43
+  end
+  inherited D2: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 27
+  end
+  inherited F2: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 10
+  end
+  inherited G2: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 11
+  end
+  inherited A3: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 61
+  end
+  inherited B3: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 60
+  end
+  inherited C3: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 59
+  end
+  inherited E3: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 55
+  end
+  inherited D3: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 40
+  end
+  inherited F3: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 30
+  end
+  inherited G3: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 7
+  end
+  inherited A4: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 49
+  end
+  inherited B4: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 42
+  end
+  inherited C4: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 33
+  end
+  inherited E4: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 32
+  end
+  inherited D4: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 16
+  end
+  inherited F4: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 8
+  end
+  inherited G4: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+  end
+  inherited A5: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 77
+  end
+  inherited B5: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 76
+  end
+  inherited C5: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 75
+  end
+  inherited E5: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 56
+  end
+  inherited D5: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 53
+  end
+  inherited F5: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 38
+  end
+  inherited G5: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 18
+  end
+  inherited A6: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 74
+  end
+  inherited B6: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 73
+  end
+  inherited C6: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 50
+  end
+  inherited E6: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 47
+  end
+  inherited D6: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 41
+  end
+  inherited F6: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 20
+  end
+  inherited G6: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+  end
+  inherited A7: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 54
+  end
+  inherited B7: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 44
+  end
+  inherited C7: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 37
+  end
+  inherited E7: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 35
+  end
+  inherited D7: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 25
+  end
+  inherited F7: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 21
+  end
+  inherited G7: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+  end
+  inherited A8: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 31
+  end
+  inherited B8: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 24
+  end
+  inherited C8: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 23
+  end
+  inherited E8: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 17
+  end
+  inherited D8: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 14
+  end
+  inherited F8: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 6
+  end
+  inherited G8: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+  end
+  inherited A9: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 72
+  end
+  inherited B9: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 67
+  end
+  inherited C9: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 64
+  end
+  inherited E9: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 36
+  end
+  inherited D9: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 28
+  end
+  inherited F9: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 15
+  end
+  inherited G9: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 9
+  end
+  inherited A10: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 57
+  end
+  inherited B10: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 52
+  end
+  inherited C10: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 46
+  end
+  inherited E10: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 26
+  end
+  inherited D10: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 22
+  end
+  inherited F10: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 13
+  end
+  inherited G10: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+  end
+  inherited A11: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Position.X = 8.000000000000000000
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 45
+  end
+  inherited B11: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 39
+  end
+  inherited C11: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 34
+  end
+  inherited E11: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 29
+  end
+  inherited D11: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 19
+  end
+  inherited F11: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+    TabOrder = 12
+  end
+  inherited G11: TButton
+    Anchors = [akLeft, akTop, akRight]
+    Scale.X = 0.500000000000000000
+    Scale.Y = 0.500000000000000000
+  end
+  inherited Panel1: TPanel
+    inherited Button1: TButton
+      Position.X = 56.000000000000000000
+    end
+    inherited Label1: TLabel
+      Position.X = 16.000000000000000000
+    end
+  end
+end

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/07/26 11:24:58.000.237,=C:\Users\nanoTech\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/07/26 11:25:28.000.850,C:\Users\nanoTech\Documents\_delphi\second screen delphi XE8\Client\Unit1.pas=C:\Users\nanoTech\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/07/26 11:25:28.000.850,C:\Users\nanoTech\Documents\_delphi\second screen delphi XE8\Client\Unit1.fmx=C:\Users\nanoTech\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2015/07/26 11:25:49.000.445,C:\Users\nanoTech\Documents\_delphi\second screen delphi XE8\Client\SSClient.dproj=C:\Users\nanoTech\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/07/30 15:25:21.949,=C:\Users\nanoTech\Documents\_delphi\second screen delphi XE8\Client\Unit2.pas</Transaction>
+    <Transaction>2015/07/30 15:39:37.799,=C:\Users\nanoTech\Documents\_delphi\_lib\Android.PowerManager.pas</Transaction>
+    <Transaction>2015/07/30 15:41:07.735,C:\Users\nanoTech\Documents\_delphi\_lib\Android.PowerManager.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

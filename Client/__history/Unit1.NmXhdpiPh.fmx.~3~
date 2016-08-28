@@ -1,0 +1,454 @@
+inherited Form1_NmXhdpiPh: TForm1_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited A1: TButton
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B1: TButton
+    Position.X = 52.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C1: TButton
+    Position.X = 104.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E1: TButton
+    Position.X = 208.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D1: TButton
+    Position.X = 156.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F1: TButton
+    Position.X = 260.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G1: TButton
+    Position.X = 312.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A2: TButton
+    Position.Y = 52.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B2: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 52.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C2: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 52.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E2: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 52.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D2: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 52.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F2: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 52.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G2: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 52.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A3: TButton
+    Position.Y = 104.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B3: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 104.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C3: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 104.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E3: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 104.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D3: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 104.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F3: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 104.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G3: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 104.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A4: TButton
+    Position.Y = 156.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B4: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 156.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C4: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 156.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E4: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 156.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D4: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 156.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F4: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 156.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G4: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 156.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A5: TButton
+    Position.Y = 208.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B5: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 208.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C5: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 208.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E5: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 208.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D5: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 208.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F5: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 208.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G5: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 208.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A6: TButton
+    Position.Y = 260.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B6: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 260.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C6: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 260.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E6: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 260.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D6: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 260.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F6: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 260.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G6: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 260.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A7: TButton
+    Position.Y = 312.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B7: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 312.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C7: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 312.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E7: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 312.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D7: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 312.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F7: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 312.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G7: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 312.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A8: TButton
+    Position.Y = 364.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B8: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 364.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C8: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 364.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E8: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 364.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D8: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 364.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F8: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 364.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G8: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 364.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A9: TButton
+    Position.Y = 416.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B9: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 416.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C9: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 416.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E9: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 416.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D9: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 416.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F9: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 416.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G9: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 416.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A10: TButton
+    Position.Y = 468.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B10: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 468.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C10: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 468.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E10: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 468.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D10: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 468.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F10: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 468.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G10: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 468.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited A11: TButton
+    Position.Y = 520.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited B11: TButton
+    Position.X = 52.000000000000000000
+    Position.Y = 520.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited C11: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 520.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited E11: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 520.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited D11: TButton
+    Position.X = 156.000000000000000000
+    Position.Y = 520.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited F11: TButton
+    Position.X = 260.000000000000000000
+    Position.Y = 520.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited G11: TButton
+    Position.X = 312.000000000000000000
+    Position.Y = 520.000000000000000000
+    Scale.X = 0.899999976158142100
+    Scale.Y = 0.899999976158142100
+  end
+  inherited Panel1: TPanel
+    inherited Label1: TLabel
+      Position.X = 16.000000000000000000
+    end
+  end
+end

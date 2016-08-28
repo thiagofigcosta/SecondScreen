@@ -1,0 +1,85 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited A1: TPanel
+    inherited IA1: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+      Position.X = -8.000000000000000000
+      Position.Y = -8.000000000000000000
+    end
+  end
+  inherited A3: TPanel
+    inherited IA3: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited A5: TPanel
+    inherited IA5: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited A7: TPanel
+    inherited IA7: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited A9: TPanel
+    inherited IA9: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited C1: TPanel
+    inherited IC1: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited C3: TPanel
+    inherited IC3: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited C5: TPanel
+    inherited IC5: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited C7: TPanel
+    inherited IC7: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited E1: TPanel
+    inherited IE1: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited E3: TPanel
+    inherited IE3: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited E5: TPanel
+    inherited IE5: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+  inherited E7: TPanel
+    inherited IE7: TImage
+      MultiResBitmap.Height = 120
+      MultiResBitmap.Width = 120
+    end
+  end
+end

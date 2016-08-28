@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/07/26 10:57:59.000.213,=C:\Users\nanoTech\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/07/26 10:58:55.000.489,C:\Users\nanoTech\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\nanoTech\Documents\second screen delphi XE8\Server\Unit1.pas</Transaction>
+    <Transaction>2015/07/26 10:58:55.000.489,C:\Users\nanoTech\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\nanoTech\Documents\second screen delphi XE8\Server\Unit1.dfm</Transaction>
+    <Transaction>2015/07/26 10:59:02.000.295,C:\Users\nanoTech\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\nanoTech\Documents\second screen delphi XE8\Server\SSServer.dproj</Transaction>
+    <Transaction>2015/07/26 12:23:12.000.434,=C:\Users\nanoTech\Documents\_delphi\second screen delphi XE8\Server\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

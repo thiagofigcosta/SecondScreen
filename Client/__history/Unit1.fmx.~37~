@@ -1,0 +1,1447 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 660
+  ClientWidth = 420
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 3
+  object A1: TPanel
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 82
+    OnClick = A1Click
+    object IA1: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A1Click
+    end
+  end
+  object A10: TPanel
+    Position.Y = 540.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 69
+    object IA10: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A10Click
+    end
+  end
+  object A11: TPanel
+    Position.Y = 600.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 68
+    object IA11: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A11Click
+    end
+  end
+  object A2: TPanel
+    Position.Y = 60.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+    object IA2: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A2Click
+    end
+  end
+  object A3: TPanel
+    Position.Y = 120.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 57
+    object IA3: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A3Click
+    end
+  end
+  object A4: TPanel
+    Position.Y = 180.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 79
+    object IA4: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A4Click
+    end
+  end
+  object A5: TPanel
+    Position.Y = 240.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 77
+    object IA5: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A5Click
+    end
+  end
+  object A6: TPanel
+    Position.Y = 300.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 74
+    object IA6: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A6Click
+    end
+  end
+  object A7: TPanel
+    Position.Y = 360.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 67
+    object IA7: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A7Click
+    end
+  end
+  object A8: TPanel
+    Position.Y = 420.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 62
+    object IA8: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A8Click
+    end
+  end
+  object A9: TPanel
+    Position.Y = 480.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 71
+    object IA9: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = A9Click
+    end
+  end
+  object B1: TPanel
+    Position.X = 60.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 65
+    object IB1: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B1Click
+    end
+  end
+  object B10: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 540.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 61
+    object IB10: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B10Click
+    end
+  end
+  object B11: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 600.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 58
+    object IB11: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B11Click
+    end
+  end
+  object B2: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 60.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 55
+    object IB2: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B2Click
+    end
+  end
+  object B3: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 47
+    object IB3: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B3Click
+    end
+  end
+  object B4: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 180.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 76
+    object IB4: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B4Click
+    end
+  end
+  object B5: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 240.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 73
+    object IB5: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B5Click
+    end
+  end
+  object B6: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 300.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 70
+    object IB6: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B6Click
+    end
+  end
+  object B7: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 360.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 59
+    object IB7: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B7Click
+    end
+  end
+  object B8: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 420.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 52
+    object IB8: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B8Click
+    end
+  end
+  object B9: TPanel
+    Position.X = 60.000000000000000000
+    Position.Y = 480.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 64
+    object IB9: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = B9Click
+    end
+  end
+  object C1: TPanel
+    Position.X = 120.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 81
+    object IC1: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C1Click
+    end
+  end
+  object C10: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 540.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 51
+    object IC10: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C10Click
+    end
+  end
+  object C11: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 600.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 48
+    object IC11: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C11Click
+    end
+  end
+  object C2: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 60.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 45
+    object IC2: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C2Click
+    end
+  end
+  object C3: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 37
+    object IC3: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C3Click
+    end
+  end
+  object C4: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 180.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 66
+    object IC4: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C4Click
+    end
+  end
+  object C5: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 240.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 63
+    object IC5: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C5Click
+    end
+  end
+  object C6: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 300.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 60
+    object IC6: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C6Click
+    end
+  end
+  object C7: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 360.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 49
+    object IC7: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C7Click
+    end
+  end
+  object C8: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 420.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 42
+    object IC8: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C8Click
+    end
+  end
+  object C9: TPanel
+    Position.X = 120.000000000000000000
+    Position.Y = 480.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 54
+    object IC9: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = C9Click
+    end
+  end
+  object D1: TPanel
+    Position.X = 180.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 80
+    object ID1: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D1Click
+    end
+  end
+  object D10: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 540.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 41
+    object ID10: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D10Click
+    end
+  end
+  object D11: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 600.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 38
+    object ID11: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D11Click
+    end
+  end
+  object D2: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 60.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 35
+    object ID2: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D2Click
+    end
+  end
+  object D3: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 27
+    object ID3: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D3Click
+    end
+  end
+  object D4: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 180.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 56
+    object ID4: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D4Click
+    end
+  end
+  object D5: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 240.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 53
+    object ID5: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D5Click
+    end
+  end
+  object D6: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 300.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 50
+    object ID6: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D6Click
+    end
+  end
+  object D7: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 360.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 39
+    object ID7: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D7Click
+    end
+  end
+  object D8: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 420.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 32
+    object ID8: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D8Click
+    end
+  end
+  object D9: TPanel
+    Position.X = 180.000000000000000000
+    Position.Y = 480.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 44
+    object ID9: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = D9Click
+    end
+  end
+  object E1: TPanel
+    Position.X = 240.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 78
+    object IE1: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E1Click
+    end
+  end
+  object E10: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 540.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 31
+    object IE10: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E10Click
+    end
+  end
+  object E11: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 600.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 28
+    object IE11: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E11Click
+    end
+  end
+  object E2: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 60.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 25
+    object IE2: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E2Click
+    end
+  end
+  object E3: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 17
+    object IE3: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E3Click
+    end
+  end
+  object E4: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 180.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 46
+    object IE4: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E4Click
+    end
+  end
+  object E5: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 240.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 43
+    object IE5: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E5Click
+    end
+  end
+  object E6: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 300.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 40
+    object IE6: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E6Click
+    end
+  end
+  object E7: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 360.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 29
+    object IE7: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E7Click
+    end
+  end
+  object E8: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 420.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 22
+    object IE8: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E8Click
+    end
+  end
+  object E9: TPanel
+    Position.X = 240.000000000000000000
+    Position.Y = 480.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 34
+    object IE9: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = E9Click
+    end
+  end
+  object F1: TPanel
+    Position.X = 300.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 75
+    object IF1: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F1Click
+    end
+  end
+  object F10: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 540.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 21
+    object IF10: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F10Click
+    end
+  end
+  object F11: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 600.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 18
+    object IF11: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F11Click
+    end
+  end
+  object F2: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 60.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 16
+    object IF2: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F2Click
+    end
+  end
+  object F3: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 10
+    object IF3: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F3Click
+    end
+  end
+  object F4: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 180.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 36
+    object IF4: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F4Click
+    end
+  end
+  object F5: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 240.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 33
+    object IF5: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F5Click
+    end
+  end
+  object F6: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 300.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 30
+    object IF6: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F6Click
+    end
+  end
+  object F7: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 360.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 19
+    object IF7: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F7Click
+    end
+  end
+  object F8: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 420.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 14
+    object IF8: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F8Click
+    end
+  end
+  object F9: TPanel
+    Position.X = 300.000000000000000000
+    Position.Y = 480.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 24
+    object IF9: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = F9Click
+    end
+  end
+  object G1: TPanel
+    Position.X = 360.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 72
+    object IG1: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G1Click
+    end
+  end
+  object G10: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 540.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 13
+    object IG10: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G10Click
+    end
+  end
+  object G11: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 600.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 11
+    object IG11: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G11Click
+    end
+  end
+  object G2: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 60.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 9
+    object IG2: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G2Click
+    end
+  end
+  object G3: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 7
+    object IG3: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G3Click
+    end
+  end
+  object G4: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 180.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 26
+    object IG4: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G4Click
+    end
+  end
+  object G5: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 240.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 23
+    object IG5: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G5Click
+    end
+  end
+  object G6: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 300.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 20
+    object IG6: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G6Click
+    end
+  end
+  object G7: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 360.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 12
+    object IG7: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G7Click
+    end
+  end
+  object G8: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 420.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    object IG8: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G8Click
+    end
+  end
+  object G9: TPanel
+    Position.X = 360.000000000000000000
+    Position.Y = 480.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 15
+    object IG9: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Size.Width = 60.000000000000000000
+      Size.Height = 60.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = G9Click
+    end
+  end
+  object Panel1: TPanel
+    Position.X = 112.000000000000000000
+    Position.Y = 240.000000000000000000
+    Size.Width = 193.000000000000000000
+    Size.Height = 113.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    object editIP: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 1
+      Text = '192.168.0.2'
+      Position.X = 48.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 145.000000000000000000
+      Size.Height = 32.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object Button1: TButton
+      Position.Y = 72.000000000000000000
+      Size.Width = 193.000000000000000000
+      Size.Height = 41.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      Text = 'Connect'
+      OnClick = Button1Click
+    end
+    object editPort: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Text = '1124'
+      Position.X = 48.000000000000000000
+      Position.Y = 40.000000000000000000
+      Size.Width = 145.000000000000000000
+      Size.Height = 32.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object Label1: TLabel
+      Position.Y = 8.000000000000000000
+      Size.Width = 33.000000000000000000
+      Size.Height = 23.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'IP:'
+    end
+    object Label2: TLabel
+      Position.Y = 40.000000000000000000
+      Text = 'Port:'
+    end
+  end
+  object IdTCPClient1: TIdTCPClient
+    OnDisconnected = IdTCPClient1Disconnected
+    OnConnected = IdTCPClient1Connected
+    ConnectTimeout = 5000
+    IPVersion = Id_IPv4
+    Port = 0
+    ReadTimeout = 50000
+    ReuseSocket = rsTrue
+    UseNagle = False
+    Left = 376
+    Top = 608
+  end
+  object ImageList1: TImageList
+    Source = <>
+    Destination = <>
+    Left = 312
+    Top = 608
+  end
+end

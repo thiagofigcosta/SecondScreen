@@ -1,0 +1,220 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited A1: TButton
+    Position.X = 200.000000000000000000
+    Position.Y = 344.000000000000000000
+  end
+  inherited B1: TButton
+    Position.Y = 136.000000000000000000
+  end
+  inherited C1: TButton
+    Position.Y = 112.000000000000000000
+  end
+  inherited E1: TButton
+    Position.Y = 152.000000000000000000
+  end
+  inherited D1: TButton
+    Position.Y = 160.000000000000000000
+  end
+  inherited F1: TButton
+    Position.Y = 168.000000000000000000
+  end
+  inherited G1: TButton
+    Position.Y = 352.000000000000000000
+  end
+  inherited A2: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 47
+  end
+  inherited B2: TButton
+    TabOrder = 36
+  end
+  inherited C2: TButton
+    TabOrder = 30
+  end
+  inherited E2: TButton
+    TabOrder = 22
+  end
+  inherited D2: TButton
+    TabOrder = 15
+  end
+  inherited F2: TButton
+    TabOrder = 9
+  end
+  inherited A3: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 65
+  end
+  inherited B3: TButton
+    TabOrder = 62
+  end
+  inherited C3: TButton
+    TabOrder = 58
+  end
+  inherited E3: TButton
+    TabOrder = 51
+  end
+  inherited D3: TButton
+    TabOrder = 37
+  end
+  inherited F3: TButton
+    TabOrder = 23
+  end
+  inherited G3: TButton
+    TabOrder = 7
+  end
+  inherited A4: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 50
+  end
+  inherited B4: TButton
+    TabOrder = 40
+  end
+  inherited C4: TButton
+    TabOrder = 31
+  end
+  inherited E4: TButton
+    TabOrder = 28
+  end
+  inherited D4: TButton
+    TabOrder = 16
+  end
+  inherited F4: TButton
+    TabOrder = 8
+  end
+  inherited A5: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 88
+  end
+  inherited B5: TButton
+    TabOrder = 84
+  end
+  inherited C5: TButton
+    TabOrder = 80
+  end
+  inherited E5: TButton
+    TabOrder = 71
+  end
+  inherited D5: TButton
+    TabOrder = 63
+  end
+  inherited F5: TButton
+    TabOrder = 43
+  end
+  inherited A6: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 77
+  end
+  inherited B6: TButton
+    TabOrder = 74
+  end
+  inherited C6: TButton
+    TabOrder = 69
+  end
+  inherited E6: TButton
+    TabOrder = 56
+  end
+  inherited D6: TButton
+    TabOrder = 44
+  end
+  inherited F6: TButton
+    TabOrder = 21
+  end
+  inherited A7: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 66
+  end
+  inherited B7: TButton
+    TabOrder = 60
+  end
+  inherited C7: TButton
+    TabOrder = 55
+  end
+  inherited E7: TButton
+    TabOrder = 49
+  end
+  inherited D7: TButton
+    TabOrder = 33
+  end
+  inherited A8: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 38
+  end
+  inherited B8: TButton
+    TabOrder = 32
+  end
+  inherited C8: TButton
+    TabOrder = 27
+  end
+  inherited E8: TButton
+    TabOrder = 18
+  end
+  inherited D8: TButton
+    TabOrder = 14
+  end
+  inherited F8: TButton
+    TabOrder = 6
+  end
+  inherited A9: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 73
+  end
+  inherited B9: TButton
+    TabOrder = 67
+  end
+  inherited C9: TButton
+    TabOrder = 64
+  end
+  inherited E9: TButton
+    TabOrder = 54
+  end
+  inherited D9: TButton
+    TabOrder = 42
+  end
+  inherited F9: TButton
+    TabOrder = 24
+  end
+  inherited G9: TButton
+    TabOrder = 11
+  end
+  inherited A10: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 57
+  end
+  inherited B10: TButton
+    TabOrder = 52
+  end
+  inherited C10: TButton
+    TabOrder = 46
+  end
+  inherited E10: TButton
+    TabOrder = 35
+  end
+  inherited D10: TButton
+    TabOrder = 26
+  end
+  inherited F10: TButton
+    TabOrder = 13
+  end
+  inherited A11: TButton
+    Position.X = 8.000000000000000000
+    TabOrder = 45
+  end
+  inherited B11: TButton
+    TabOrder = 39
+  end
+  inherited C11: TButton
+    TabOrder = 34
+  end
+  inherited E11: TButton
+    TabOrder = 29
+  end
+  inherited D11: TButton
+    TabOrder = 19
+  end
+  inherited F11: TButton
+    TabOrder = 12
+  end
+end
